@@ -1326,11 +1326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\byp1u\\Desktop\\TaskBookAPI\\TaskBookAPI\\TaskBookAPI.csproj",
+      "projectUniqueName": "C:\\Users\\byp1u\\Desktop\\Новая папка\\TaskBookAPI\\TaskBookAPI\\TaskBookAPI.csproj",
       "projectName": "TaskBookAPI",
-      "projectPath": "C:\\Users\\byp1u\\Desktop\\TaskBookAPI\\TaskBookAPI\\TaskBookAPI.csproj",
+      "projectPath": "C:\\Users\\byp1u\\Desktop\\Новая папка\\TaskBookAPI\\TaskBookAPI\\TaskBookAPI.csproj",
       "packagesPath": "C:\\Users\\byp1u\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\byp1u\\Desktop\\TaskBookAPI\\TaskBookAPI\\obj\\",
+      "outputPath": "C:\\Users\\byp1u\\Desktop\\Новая папка\\TaskBookAPI\\TaskBookAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

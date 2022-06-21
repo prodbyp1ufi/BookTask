@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fh2JtQ3sGBGmJDhNoZwTMeCNVghmN2Uxj/NU6IE/CikoL99U9l9//8rSBJ9RqAynzVK8w5s58VY/PmuOJ7fc8A==",
+  "dgSpecHash": "aMIyoflcKWJOz+aObFcoOuat6Hs2nlVlnFu/BaLpZcPwGWV6WfMOjKGpuQfGJRRMsS4roks/coAUJBDunUSpZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\byp1u\\Desktop\\TaskBookAPI\\TaskBookAPI\\TaskBookAPI.csproj",
+  "projectFilePath": "C:\\Users\\byp1u\\Desktop\\Новая папка\\TaskBookAPI\\TaskBookAPI\\TaskBookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\byp1u\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\byp1u\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",

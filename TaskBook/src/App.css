@@ -1,0 +1,95 @@
+.App {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.books-table-container table{
+  text-align: center;
+  margin: 0 auto;
+  border: solid black 1px;
+  border-collapse: collapse;
+  
+}
+
+.books-table-container tr td {
+  margin: 0 auto;
+  border: solid black 1px;
+  height: 40px;
+  padding: 10px;
+  font-size: 24px;
+}
+
+.books-table-container tr {
+  cursor: pointer;
+}
+
+.close-container{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  background-color: rgba(78, 78, 78, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-container{
+  background-color: white;
+  width: 60%;
+  height: 60%;
+  border-radius: 10px;
+
+}
+
+.modal-content{
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.modal-content input{
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.modal-content select{
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.modal-content input[type="button"]{
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.add-button{
+  padding: 10px;
+  font-size: 18px;
+  margin: 10px;
+}
+
+.delete-button{
+  padding: 10px;
+  font-size: 18px;
+  margin: 10px;
+}
+
+
+.login-container input{
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.login-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
