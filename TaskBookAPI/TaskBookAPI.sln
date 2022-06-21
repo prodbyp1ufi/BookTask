@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBookAPI", "TaskBookAPI\TaskBookAPI.csproj", "{5DBBE365-CF35-41AA-80A3-0EC4D0A6B9BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBBE365-CF35-41AA-80A3-0EC4D0A6B9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBBE365-CF35-41AA-80A3-0EC4D0A6B9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBBE365-CF35-41AA-80A3-0EC4D0A6B9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBBE365-CF35-41AA-80A3-0EC4D0A6B9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
